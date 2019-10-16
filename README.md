@@ -13,7 +13,7 @@ git add --all
 git commit -m "comentario ou meu primeiro commit"
 
 #Para botar no repositorio#
-git push origin master
+git push -u origin master
 
 #Para conectar o repositorio a um servidor remoto#
 git remote add origin linkDeUmRepositorio 
